@@ -1,3 +1,8 @@
 .logo img {
     width: 150px !important;
 }
+
+.c-btn--primary {
+    background-color: #43423600;
+    border: solid 1px;
+}
